@@ -1,1 +1,1 @@
-gcr.io/distroless/java:11
+FROM gcr.io/distroless/java:11
